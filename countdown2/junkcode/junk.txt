@@ -1,0 +1,117 @@
+/   let startintervals=()=>>
+// {
+//       // let dayinterval=setInterval(()=>
+//       // {
+//       //   setintervaltime(prev=>{return {
+//       //     ...prev,
+//       //     days:prev.days-1,
+//       //     hours:24,
+//       //     minutes:60,
+//       //     seconds:60
+//       //   }})
+//       // },1000*60*60*24)
+
+//       // let hourinterval = setInterval(()=>
+//       // {
+//       //   setintervaltime(prev=>{return {
+//       //     ...prev,
+//       //     hours:prev.hours-1,
+//       //     minutes:60,
+//       //     seconds:60
+          
+//       //   }})
+//       // },1000*60*60)
+
+//       // let minuteinterval= setInterval(()=>
+//       // {
+//       //      setintervaltime(prev=>{return {
+//       //        ...prev,
+//       //        minutes:prev.minutes-1,
+//       //        seconds:60
+//       //      }})
+//       // },1000*60)
+//       let secondinterval=setInterval(()=>
+//       {
+//         setintervaltime(prev=>{
+//           return {
+//             ...prev,
+//             seconds:prev.seconds-1
+//           }
+//         })
+//       },1000)
+//       setintervals({
+//       secondinterval:secondinterval
+//       })
+
+// }
+  // let starttimer=(date)=>
+  // {
+  //    let spec=moment(date,'DD/MM/YYYY hh:mm:ss')
+     
+  //    let now=moment()
+  //    console.log("today",now)
+  //    let interval=spec.diff(now,'second')
+  //   let days=parseInt(interval/(60*60*24))
+  //   let hours=parseInt((interval-days*60*60*24)/(60*60))
+  //   let minutes=parseInt((interval-days*60*60*24-hours*60*60)/(60))
+  //   let seconds=parseInt((interval-days*60*60*24-hours*60*60-minutes*60))
+  //   setintervaltime({
+  //     days:days,
+  //     hours,
+  //     minutes,
+  //     seconds
+  //   })
+    
+  //   startintervals()
+  // }
+  // let stopintervals=()=>
+  // {
+  //   console.log("interval is closing -----",intervals.secondinterval,"--")
+  //   //bruh
+  //      clearInterval(intervals.secondinterval)
+       
+  // }
+
+
+
+
+
+
+
+   {/* <div class="balloon white">
+    <div class="star-red"></div>
+  <div class="face">
+    <div class="eye"></div>
+    <div class="mouth happy"></div>
+  </div>
+  <div class="triangle"></div>
+  <div class="string"></div>
+</div>
+
+<div class="balloon red">
+  <div class="star"></div>
+  <div class="face">
+    <div class="eye"></div>
+    <div class="mouth happy"></div>
+  </div>
+  <div class="triangle"></div>
+  <div class="string"></div>
+</div>
+
+<div class="balloon blue">
+  <div class="star"></div>
+  <div class="face">
+    <div class="eye"></div>
+    <div class="mouth happy"></div>
+  </div>
+  <div class="triangle"></div>
+  <div class="string"></div>
+</div> */}
+
+
+
+
+
+{/* <footer>
+  <p>made by <a href="https://codepen.io/juliepark"> julie</a> ♡</p>
+</footer> */}
